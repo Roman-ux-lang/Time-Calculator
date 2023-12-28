@@ -1,2 +1,2 @@
 # TimeCalculator
-The "add_time" function calculates the time after adding a specified number of hours. It considers AM/PM format, handles day changes, and outputs the updated time and day. The code is designed for versatility and readability.
+The "add_time" function is a solution for FreeCodeCamp challenges. It calculates the time after adding specified hours, considering AM/PM format, and handles day changes. The code prioritizes versatility and readability.
